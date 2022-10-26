@@ -11,6 +11,7 @@ def show_input():
     show_choice.title()
     return show_choice
 
+
 #user menu in separate file
 
 #search by show name - create function

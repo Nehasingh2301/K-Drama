@@ -1,5 +1,6 @@
 from show_search_functions import show_search
 
+
 def is_search_correct():
     is_correct = input("Is this the correct show? Y/N ")
     if is_correct == 'Y':
